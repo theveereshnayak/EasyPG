@@ -10,4 +10,4 @@ Hostel and PG management app
 
 - It simplifies student management, optimizes room allocation, and provides real-time room availability checks.
 
-**Developed By: [Owais Yosuf](https://www.linkedin.com/in/owaisyosuf/)**
+**Developed By: Darshan MP and Veeresh Nayak
