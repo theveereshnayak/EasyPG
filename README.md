@@ -1,4 +1,4 @@
-# DormEase
+# EasyPG
 
 PG management app
 
