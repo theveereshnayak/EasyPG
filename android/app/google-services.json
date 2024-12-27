@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "467876151593",
+    "project_id": "easy-pg-5c876",
+    "storage_bucket": "easy-pg-5c876.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467876151593:android:d291f34cc4f7ce8a1bb738",
+        "android_client_info": {
+          "package_name": "com.example.easy_pg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCItpBTkjC-wGnkT0VAos0p0Lgtnui7kjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
